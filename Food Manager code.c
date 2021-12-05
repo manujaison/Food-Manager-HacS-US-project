@@ -42,8 +42,7 @@ y:
         printf("\nItem not in stock!!");
         break;
       }
-    } else
-      printf("Item not in stock!!");
+    } 
 
   }
   printf("\nThe products you have are :");
